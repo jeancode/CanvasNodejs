@@ -1,0 +1,16 @@
+{
+  "name": "sdl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kmamal/gpu": "^0.1.3",
+    "@kmamal/sdl": "^0.10.1",
+    "canvas": "^2.11.2"
+  }
+}
